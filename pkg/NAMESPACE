@@ -1,0 +1,3 @@
+export(duane, duane.plot, littlewood.verall, littlewood.verall.plot, moranda.geometric,  
+       moranda.geometric.plot, musa.okumoto, musa.okumoto.plot, total.plot, rel.plot,
+       mvf.duane, mvf.mor, mvf.musa, mvf.ver.lin, mvf.ver.quad)
