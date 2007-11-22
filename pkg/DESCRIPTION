@@ -7,4 +7,4 @@ Maintainer: Andreas Wittmann <andreas_wittmann@gmx.de>
 Depends: R (>= 2.4.0)
 Description: Functions for estimating parameters in software reliability models.
              Only infinite failure models are implemented so far. 
-License: Unlimited use and distribution
+License: Unlimited 
